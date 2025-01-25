@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vercel": "^39.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
